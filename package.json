@@ -1,0 +1,15 @@
+{
+  "name": "websol",
+  "version": "1.0.0",
+  "description": "services site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigDuro"
+  },
+  "author": "bigDuro",
+  "license": "ISC"
+}
