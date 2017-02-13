@@ -11,5 +11,11 @@
     "url": "https://github.com/bigDuro"
   },
   "author": "bigDuro",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "run-sequence": "^1.2.2"
+  }
 }
